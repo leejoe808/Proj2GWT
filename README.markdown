@@ -1,2 +1,3 @@
 # Honolulu Community College
-__GWT portion __ Fall 2012 by: _Vern Takebayashi_ 
+This is Project 2 for CENT 285 at HCC
+__GWT portion __ by: _Joe Lee_ 
